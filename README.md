@@ -1,3 +1,8 @@
+Screenshots:
+![alt text](https://github.com/Viragi/bookingmeal/blob/master/public/screenshot1.png)
+![alt text](https://github.com/Viragi/bookingmeal/blob/master/public/screenshot2.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
